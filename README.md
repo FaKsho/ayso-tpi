@@ -24,4 +24,4 @@ Se configuró una máquina virtual (Ubuntu Server 22.04) en VirtualBox, en modo 
 Los detalles de la realización del trabajo se pueden ver en el pdf del informe: [`TPI-AYSO.pdf`](./TPI-AYSO.pdf).
  
 ## Video explicativo
-El video se encuentra en una carpeta de Drive en [https://drive.google.com/drive/folders/1fd92jCeNisYsedRIxWh9YcuWreHAxiMk]('este') link.
+El video se encuentra en una carpeta de Drive en ['este link']('(https://drive.google.com/drive/folders/1fd92jCeNisYsedRIxWh9YcuWreHAxiMk)').
